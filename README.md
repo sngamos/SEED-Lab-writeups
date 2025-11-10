@@ -13,4 +13,6 @@
 4. Lab 4: Public Key Infrastructure
     - Grade: 5/5
 5. Lab 5: Firewall Exploration
+    - Grade: 5/5
+6. Lab 6: CSRF and XSS 
     - Grade: ?/5
