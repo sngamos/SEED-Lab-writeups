@@ -16,3 +16,5 @@
     - Grade: 5/5
 6. Lab 6: CSRF and XSS 
     - Grade: ?/5
+7. Lab 7: VPN
+    - Grade: ?/5
