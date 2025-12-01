@@ -15,6 +15,8 @@
 5. Lab 5: Firewall Exploration
     - Grade: 5/5
 6. Lab 6: CSRF and XSS 
-    - Grade: ?/5
+    - Grade: 5/5
 7. Lab 7: VPN
+    - Grade: ?/5
+8. Lab 8: IDS (Not SEED Labs)
     - Grade: ?/5

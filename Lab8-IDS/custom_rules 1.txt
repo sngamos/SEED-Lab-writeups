@@ -1,0 +1,2 @@
+#Bruteforce
+alert tcp any any -> any any (msg:"Suspicious attempts"; flags:S; threshold:type both, track by_src, count 20, seconds 30; classtype:attempted-user; sid:1000020; rev:1;)
