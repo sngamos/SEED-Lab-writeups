@@ -1,5 +1,5 @@
-# Writeups for SEED-Labs
-
+# Writeups for SUTD 50.020 Network Security Labs
+- Labs are mostly from SEED Labs, with the exception of Lab 8. 
 - All Writeups for each lab can be found in the markdown files in their respective folders.
 - Note the notation of the lab numbering is different from the SEED-Labs website.
 - Copy at your own risk...
